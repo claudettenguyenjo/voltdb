@@ -558,7 +558,7 @@ debug = False
 
 def main():
     global debug
-    specpath = "spec.txt"
+    specpath = "specs.txt"
     javapkg = 'org.voltdb.catalog'
     cpp_postpath = 'out/cppsrc'
     cpp_prepath = 'in/cppsrc'
